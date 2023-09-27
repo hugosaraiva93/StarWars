@@ -9,7 +9,3 @@ Site do Star Wars
 </div>
 
 
-# PROJECT CREATED FROM
-
-* Udemy
-https://www.udemy.com/
