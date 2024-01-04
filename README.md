@@ -1,6 +1,8 @@
 # StarWars
 Site do Star Wars
 
+Para fins de pesquisa e curiosidades.
+
  ## Tecnologias Utilizadas
 <div style="display: inline_block">
 <img align:"center"; height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
